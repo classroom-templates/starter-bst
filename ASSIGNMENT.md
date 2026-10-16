@@ -789,7 +789,7 @@ Use Git throughout the assignment.
 
 Your history should show meaningful development rather than one final bulk commit.
 
-Commit as you reach real milestones: **small, smart, often**. and you must have at least **12 meaningful** code related commits.
+Commit as you reach real milestones: **small, smart, often**.
 
 Your commits should make the development sequence visible, including:
 
